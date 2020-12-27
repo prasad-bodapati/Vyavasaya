@@ -1,4 +1,4 @@
 .idea
-*.yml
+*.iml
 target
-*/node_modules
+src/main/js/ecommerce/node_modules/
